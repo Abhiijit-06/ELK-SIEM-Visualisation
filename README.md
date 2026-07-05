@@ -2,9 +2,7 @@
 
 # Overview
 
-This project demonstrates a basic Security Information and Event Management (SIEM) solution using the Elastic Stack (Elasticsearch, Kibana, and Filebeat) to monitor and analyze SSH authentication events on a Linux system.
-
-The objective of this project is to collect Linux system logs, index them into Elasticsearch, and visualize security events in Kibana through interactive dashboards. As a proof of concept, failed SSH login attempts are generated from a Kali Linux virtual machine and monitored in real time.
+This project demonstrates a basic Security Information and Event Management (SIEM) solution using the Elastic Stack (Elasticsearch, Kibana, and Filebeat) to monitor and analyze SSH authentication events on a Linux system. The objective of this project is to collect Linux system logs, index them into Elasticsearch, and visualize security events in Kibana through interactive dashboards. As a proof of concept, failed SSH login attempts are generated from a Kali Linux virtual machine and monitored in real time.
 
 # Features
 Collects Linux system logs using Filebeat
