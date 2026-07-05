@@ -17,22 +17,7 @@ Demonstrates an end-to-end SIEM workflow
 
 
 # Architecture
-Kali Linux
-      │
-      ▼
-Failed SSH Login Attempts
-      │
-      ▼
-Ubuntu Server (/var/log/auth.log)
-      │
-      ▼
-Filebeat
-      │
-      ▼
-Elasticsearch
-      │
-      ▼
-Kibana Dashboard
+Kali Linux -> Failed SSH Login Attempts -> Ubuntu Server (/var/log/auth.log) -> Filebeat -> Elasticsearch -> Kibana Dashboard
 
 
 # Technologies Used:
