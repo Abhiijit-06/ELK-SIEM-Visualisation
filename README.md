@@ -54,13 +54,7 @@ Kibana visualizes the indexed data using dashboards.
 
 # Repository Structure:
 
-ELK-SIEM
-│
-├── configs/
-├── docs/
-├── screenshots/
-├── README.md
-└── LICENSE
+ELK-SIEM - configs/ - docs/ - screenshots/ - README.md - LICENSE
 Learning Outcomes
 
 Through this project I learned:
